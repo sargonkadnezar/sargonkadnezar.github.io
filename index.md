@@ -11,4 +11,4 @@ Sollte im Subheader stehen
 2. Probieren geht
 3. ueber
 4. studieren 
-Ich bin grosser fan der seite [Details] (https://sargonkadnezar.github.io/details.md)
+Ich bin grosser fan der seite [Details](https://sargonkadnezar.github.io/details.md)
