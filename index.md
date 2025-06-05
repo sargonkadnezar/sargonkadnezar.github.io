@@ -13,3 +13,4 @@ Sollte im Subheader stehen
 4. studieren
 
 Ich bin grosser fan der seite [Details](details.md)
+Auch zu empfehlen ist [Tabelle](tabelle.md)
